@@ -1,0 +1,10 @@
+{
+    "name": "bezdomni/life",
+    "description": "Conway's game of life",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bezdomni\\Life\\": "src"
+        }
+    }
+}
